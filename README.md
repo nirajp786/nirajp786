@@ -95,8 +95,15 @@
 <hr>
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/nirajp786/count.svg" />
+</p>
 
-### Hi there 👋
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
 
 <!--
 **nirajp786/nirajp786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
