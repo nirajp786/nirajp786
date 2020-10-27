@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science with Software Engineering at[ University of Windsor].(https://www.uwindsor.ca/)
+- 🎓 &nbsp; Studying Computer Science with Software Engineering at[ University of Windsor](https://www.uwindsor.ca/)
 
 - 🌱 &nbsp; Learning about **Data Science** and **Front-End**
 
