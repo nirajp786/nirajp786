@@ -48,8 +48,8 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nirajp786&&show_icons=true&theme=radical&line_height=27&v=5" alt="Niraj's's GitHub Stats" />
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="https://github-readme-stats.vercel.app/api?username=nirajp786&&show_icons=true&theme=radical&line_height=27&v=5" alt="Niraj's's GitHub Stats" /> <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
 
 <br/>
 
